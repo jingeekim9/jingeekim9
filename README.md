@@ -1,20 +1,14 @@
 [![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/Kapil987)
-<h1 align="center">Hi 👋, I'm Kapil</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
-
-- 🔭 I’m currently working on [Terraform Hands-On](https://github.com/Kapil987/terraform_prac)
-
-- 🌱 I’m currently learning **DevOps Best Practices**
-
-- 👯 I’m looking to collaborate on [Docker and Kubernetes](https://github.com/Kapil987/docker_projects)
+<h1 align="center">Hi 👋, I'm JinGee Kim</h1>
+<h3 align="center">A passionate software and machine learning engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kapil987](https://github.com/Kapil987)
 
 - 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
-- 📫 How to reach me **kapil0123@gmail.com**
+- 📫 How to reach me **jingee.kim9@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kapil0123/](https://www.linkedin.com/in/kapil0123/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jingee-kim-511226180/](https://www.linkedin.com/in/jingee-kim-511226180/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
