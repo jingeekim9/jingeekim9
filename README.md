@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jingeekim9](https://github.com/jingeekim9)
 
-- 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
+- 💬 Ask me about **Java | JavaScript | C++ | MySQL | Node | React | jQuery | HTML | PHP | Python | Git | Django | Flask | AWS | Spark | Google Cloud | TensorFlow | PyTorch | Keras | Scikit-Learn | NumPy | Pandas | Matplotlib | Cloud Computing | React Native**
 
 - 📫 How to reach me **jingee.kim9@gmail.com**
 
