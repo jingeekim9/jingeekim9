@@ -1,8 +1,8 @@
-[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/Kapil987)
+[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/jingeekim9)
 <h1 align="center">Hi 👋, I'm JinGee Kim</h1>
 <h3 align="center">A passionate software and machine learning engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kapil987](https://github.com/Kapil987)
+- 👨‍💻 All of my projects are available at [https://github.com/jingeekim9](https://github.com/jingeekim9)
 
 - 💬 Ask me about **BitBucket | AWS | Python | Terraform | Docker | Jenkins | Kubernetes | Ansible**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kapil0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil0123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jingee-kim-511226180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jingeekim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,11 +20,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapil987&show_icons=true&locale=en&layout=compact" alt="kapil987" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jingeekim9&show_icons=true&locale=en&layout=compact" alt="jingeekim9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapil987&show_icons=true&locale=en" alt="kapil987" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jingeekim9&show_icons=true&locale=en" alt="jingeekim9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapil987&" alt="kapil987" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jingeekim9&" alt="jingeekim9" /></p>
 
 <!--
 **jingeekim9/jingeekim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
