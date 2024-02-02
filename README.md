@@ -1,4 +1,4 @@
-[![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/jingeekim9)
+<!-- [![MasterHead](https://simplecoding.dev/assets/devops.gif)](https://github.com/jingeekim9) -->
 <h1 align="center">Hi 👋, I'm JinGee Kim</h1>
 <h3 align="center">A passionate software and machine learning engineer</h3>
 
